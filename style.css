@@ -107,3 +107,12 @@ main {
 .rsp__sissors {
   margin: 0px 25px;
 }
+.rsp__panel {
+  width: 300px;
+  position: absolute;
+  left: 523px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 28px;
+}
